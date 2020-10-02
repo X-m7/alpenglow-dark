@@ -3,8 +3,12 @@
 
   "name": "Alpenglow Dark",
   "description": "The Firefox Alpenglow theme modified so that it will always use its dark variant.",
-  "version": "1.0.1",
-  "icons": { "32": "icon.svg" },
+  "version": "1.0.2",
+  "icons": {
+      "32": "icon.svg",
+      "48": "icon.svg",
+      "96": "icon.svg"
+  },
 
   "theme": {
     "images": {
