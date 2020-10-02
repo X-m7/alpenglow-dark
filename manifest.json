@@ -2,8 +2,8 @@
   "manifest_version": 2,
 
   "name": "Alpenglow Dark",
-  "description": "The Alpenglow theme modified so that it will always use its dark variant.",
-  "version": "1.0",
+  "description": "The Firefox Alpenglow theme modified so that it will always use its dark variant.",
+  "version": "1.0.1",
   "icons": { "32": "icon.svg" },
 
   "theme": {
