@@ -3,7 +3,7 @@
 
   "name": "Alpenglow Dark",
   "description": "The Firefox Alpenglow theme modified so that it will always use its dark variant.",
-  "version": "1.1",
+  "version": "1.1.1",
   "icons": {
       "32": "icon.svg",
       "48": "icon.svg",
@@ -25,7 +25,8 @@
         "left top",
         "right top"
       ],
-      "additional_backgrounds_tiling": ["no-repeat", "no-repeat", "repeat-x"]
+      "additional_backgrounds_tiling": ["no-repeat", "no-repeat", "repeat-x"],
+      "zap_gradient": "linear-gradient(90deg, #9059FF 0%, #FF4AA2 52.08%, #FFBD4F 100%)"
     },
     "colors": {
       "frame": "hsla(240, 20%, 98%, 1)",
