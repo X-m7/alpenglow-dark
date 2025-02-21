@@ -3,12 +3,8 @@
 
   "name": "Alpenglow Dark",
   "description": "The Firefox Alpenglow theme modified so that it will always use its dark variant.",
-  "version": "1.1.1",
-  "icons": {
-      "32": "icon.svg",
-      "48": "icon.svg",
-      "96": "icon.svg"
-  },
+  "version": "1.2",
+  "icons": { "32": "icon.svg" },
 
   "theme": {
     "images": {
@@ -29,7 +25,7 @@
       "zap_gradient": "linear-gradient(90deg, #9059FF 0%, #FF4AA2 52.08%, #FFBD4F 100%)"
     },
     "colors": {
-      "frame": "hsla(240, 20%, 98%, 1)",
+      "frame": "#291D4F",
       "toolbar": "hsla(254, 46%, 21%, .96)",
       "button_background_active": "hsla(255, 100%, 94%, .24)",
       "button_background_hover": "hsla(255, 100%, 94%, .12)",
@@ -47,10 +43,10 @@
       "toolbar_top_separator": "transparent",
       "toolbar_bottom_separator": "hsla(245, 38%, 33%, .96)",
       "bookmark_text": "hsla(255, 100%, 94%, 1)",
+      "tab_selected": "rgb(60, 31, 123)",
       "tab_text": "hsla(255, 100%, 94%, 1)",
       "tab_background_text": "hsla(255, 100%, 94%, 1)",
       "tab_background_separator": "hsla(255, 100%, 94%, 1)",
-      "tab_selected": "rgb(60, 31, 123)",
       "tab_line": "hsla(265, 100%, 72%, 1)",
       "tab_loading": "hsla(265, 100%, 72%, 1)",
       "ntp_background": "#2A2A2E",
